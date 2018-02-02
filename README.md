@@ -10,5 +10,10 @@ Could be easily extended for custom scaling of existing gcode. Feel free to do s
 
 ![Image of UI](https://github.com/screek8000/ScaleLaserPower/raw/master/Download/Scale_Laser_Power_Sample.png)
 
-A binary file can be found below Download:
+A binary file can be found below the "Download" directory:
 https://github.com/screek8000/ScaleLaserPower/raw/master/Download/ScaleLaserPower.exe
+
+Needs .NET Framework 4.5.2 or newer:
+https://www.microsoft.com/net/download/windows (.NET Framework Runtime)
+
+Released under the GNU GPL v3, which you can find at http://www.gnu.org/licenses/gpl-3.0.en.html
