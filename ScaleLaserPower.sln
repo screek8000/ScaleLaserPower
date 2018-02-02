@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleLaserPower", "ScaleLaserPower\ScaleLaserPower.csproj", "{09DB23C4-9FFC-4F99-A1BA-A1A8CDCD8F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleLaserPowerTest", "ScaleLaserPowerTest\ScaleLaserPowerTest.csproj", "{DCDD281B-7F6F-4AE8-B6B1-0D3D7AAC6492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DB23C4-9FFC-4F99-A1BA-A1A8CDCD8F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DB23C4-9FFC-4F99-A1BA-A1A8CDCD8F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DB23C4-9FFC-4F99-A1BA-A1A8CDCD8F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DB23C4-9FFC-4F99-A1BA-A1A8CDCD8F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDD281B-7F6F-4AE8-B6B1-0D3D7AAC6492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDD281B-7F6F-4AE8-B6B1-0D3D7AAC6492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDD281B-7F6F-4AE8-B6B1-0D3D7AAC6492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDD281B-7F6F-4AE8-B6B1-0D3D7AAC6492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
